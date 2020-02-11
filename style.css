@@ -49,14 +49,15 @@ body {
 	border: 1.5px solid purple;
 	background: darkturquoise;
 }
-.hour-hand {
-	border: 1.5px solid purple;
-	background: whitesmoke;
-}
 .min-hand {
 	border: 1.5px double whitesmoke;
 	background: darkviolet;
 }
+.hour-hand {
+	border: 1.5px solid purple;
+	background: whitesmoke;
+}
+
 
 p {
 	color: whitesmoke;
